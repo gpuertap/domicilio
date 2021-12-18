@@ -3,9 +3,13 @@
     margin: 0;
 }
 body{
-    text-align: center;
-    
-    
-    
-}
+    text-align: center;  
 
+}
+.container{
+    background: darkseagreen;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+
+}
